@@ -1,0 +1,1 @@
+num = int(input("let's see if a number is odd or even)
